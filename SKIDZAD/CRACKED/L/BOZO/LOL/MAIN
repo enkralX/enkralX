@@ -1,0 +1,3 @@
+register_key = "8c943ff349915327da1208c227d483f6";
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/xfarzad/farzad9999-s-Private/main/v0.0.1.6", true))()
