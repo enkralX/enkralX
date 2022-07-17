@@ -1,1 +1,5 @@
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
+local Window = Library.CreateLib("15x", "Midnight")
 
+--MAIN
+local 15x = Window:NewTab("aimbot")
